@@ -1,8 +1,10 @@
 # demo
 this is my third repository
-> let's see what happens
-___
-- hi
-- what
-- how
+- point 1
+- point 2
 
+___
+
+'''
+print('hello world')
+'''
