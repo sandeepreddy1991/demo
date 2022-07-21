@@ -2,7 +2,7 @@
 
 ## ##  Here is the list of all project
 
-- finance[finance](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Image%20file.jpg "finance")
+- finance https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Image%20file.jpg
 - accounts
 - banking
 - energy
@@ -13,3 +13,10 @@
 | [![Acccounts](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Finance%20image.jpg "Acccounts")](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Finance%20image.jpg "Acccounts")  | accounts project   |
 | banking project  |  [![banking](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Finance%20image.jpg "banking")](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Finance%20image.jpg "banking") |
 |  [![enrgy](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Image%20file.jpg "enrgy")](https://raw.githubusercontent.com/sandeepreddy1991/demo/main/images/Image%20file.jpg "enrgy") |   energe project |
+
+for in range(0,100,3):
+	print("hello")
+	print("done")
+
+
+
